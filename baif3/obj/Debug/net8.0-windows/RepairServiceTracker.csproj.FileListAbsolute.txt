@@ -1,0 +1,4 @@
+C:\Users\Dell\Downloads\RepairServiceTracker\RepairServiceTracker\obj\Debug\net8.0-windows\RepairServiceTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\RepairServiceTracker\RepairServiceTracker\obj\Debug\net8.0-windows\RepairServiceTracker.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\RepairServiceTracker\RepairServiceTracker\obj\Debug\net8.0-windows\RepairServiceTracker.AssemblyInfo.cs
+C:\Users\Dell\Downloads\RepairServiceTracker\RepairServiceTracker\obj\Debug\net8.0-windows\RepairServiceTracker.csproj.CoreCompileInputs.cache
