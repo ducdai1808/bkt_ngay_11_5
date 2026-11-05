@@ -1,0 +1,4 @@
+C:\Users\Dell\Downloads\LabEquipmentCheckout\LabEquipmentCheckout\obj\Debug\net8.0-windows\LabEquipmentCheckout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\LabEquipmentCheckout\LabEquipmentCheckout\obj\Debug\net8.0-windows\LabEquipmentCheckout.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\LabEquipmentCheckout\LabEquipmentCheckout\obj\Debug\net8.0-windows\LabEquipmentCheckout.AssemblyInfo.cs
+C:\Users\Dell\Downloads\LabEquipmentCheckout\LabEquipmentCheckout\obj\Debug\net8.0-windows\LabEquipmentCheckout.csproj.CoreCompileInputs.cache
